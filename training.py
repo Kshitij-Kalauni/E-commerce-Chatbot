@@ -1,5 +1,6 @@
 import nltk
 #nltk.download('omw-1.4')
+import Tensorflow as tf
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import json
